@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+/dist
+
+# misc
+.DS_Store
+.env
+.env.*  # if you have multiple env files
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+Thumbs.db
